@@ -43,8 +43,12 @@ Differential amplifier
 
 ## TABULATION:
 
+![WhatsApp Image 2025-11-16 at 11 43 27_a93182a0](https://github.com/user-attachments/assets/412a839b-1fca-4e33-b206-a0c9ffb6de7b)
+
 
 ## GRAPH:
+![WhatsApp Image 2025-11-16 at 11 43 28_b569dd3a](https://github.com/user-attachments/assets/9f1b2188-c1a0-4cb2-9526-4f0dcde6e6f2)
 
 
 ## RESULT:                   
+Thus the diffential amplifier is desined and their performance is successfully tested using op-am ic 741
